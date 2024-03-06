@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome !</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="age">Age</string>
+    <string name="address">Address</string>
+    <string name="add">Add</string>
+    <string name="_22">22 years</string>
+    <string name="prateek">Prateek</string>
+    <string name="city">City</string>
+</resources>
